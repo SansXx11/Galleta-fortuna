@@ -25,7 +25,7 @@ function App() {
           setPhraseRandom={setPhraseRandom}
           setImageSelected={setImageSelected} 
         />
-      </article>
+      </article>ñ
     </div>
   );
 }
